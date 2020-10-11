@@ -1,5 +1,5 @@
 {
-    "name": "restpackio/restpack-php",
+    "name": "actionable-co/restpack-php",
     "description": "Restpack.io PHP client for HTML to PDF API, and Screenshot API",
     "type": "library",
     "autoload": {
